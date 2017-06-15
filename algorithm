@@ -6,4 +6,4 @@ def maker():
 
 def string(clues):
   nut = clues[1.00000000]
-  
+  return nut
