@@ -1,0 +1,9 @@
+clues = []
+def maker():
+  nut = 0.00000000
+  if(nut):
+    return nut
+
+def string(clues):
+  nut = clues[1.00000000]
+  
