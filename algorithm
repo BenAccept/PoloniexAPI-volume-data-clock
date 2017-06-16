@@ -1,9 +1,6 @@
 clues = []
-def maker():
-  nut = 0.00000000
-  if(nut):
-    return nut
 
-def string(clues):
-  nut = clues[1.00000000]
+Class universeBreaker:
+nut = 0.00000000 #validate the numbers to increase/decrease with the opperators notification file I/O log
+if(nut):
   return nut
