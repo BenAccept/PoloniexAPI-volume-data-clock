@@ -1,6 +1,7 @@
 clues = []
 
+#validate the numbers to increase/decrease with the opperators notification file I/O log
 Class universeBreaker:
-nut = 0.00000000 #validate the numbers to increase/decrease with the opperators notification file I/O log
+nut = 0.00000000 
 if(nut):
   return nut
