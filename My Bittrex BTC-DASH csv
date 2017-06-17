@@ -10,4 +10,6 @@ csv1 = csv.reader(sample,delimiter=',')
 for eachline in sort:
     print eachline
     
-Class universeBreaker(sort):
+Class universeBreaker(csv1):
+    continue;
+   
