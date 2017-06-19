@@ -11,4 +11,4 @@ for eachline in sort:
     print eachline
     
 class universeBreaker(csv1):
-    number_of_delimiters = 
+    number_of_delimiters = 9
