@@ -14,10 +14,10 @@ class universeBreaker(self,csv1):
     number_of_delimiters = 9 #because we have nine
     self.closed_date
     self.opened_date
+    self.market
+    self.type
+    self.bid_ask
+    self.unites_filled_DASH
+    self.unites_total_DASH
+    self.actual_rate
     self.cost_proceeds
-    self.
-    self.
-    self.
-    self.
-    self.
-    self.
