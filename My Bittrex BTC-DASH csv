@@ -10,5 +10,14 @@ csv1 = csv.reader(sample,delimiter=',')
 for eachline in sort:
     print eachline
     
-class universeBreaker(csv1):
-    number_of_delimiters = 9
+class universeBreaker(self,csv1):
+    number_of_delimiters = 9 #because we have nine
+    self.
+    self.
+    self.
+    self.
+    self.
+    self.
+    self.
+    self.
+    self.
