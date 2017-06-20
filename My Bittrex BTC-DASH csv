@@ -12,9 +12,9 @@ for eachline in sort:
     
 class universeBreaker(self,csv1):
     number_of_delimiters = 9 #because we have nine
-    self.
-    self.
-    self.
+    self.closed_date
+    self.opened_date
+    self.cost_proceeds
     self.
     self.
     self.
