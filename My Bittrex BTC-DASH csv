@@ -11,7 +11,7 @@ for eachline in sort:
     print eachline
     
 class subsetDelimitersuniversebreaker(self,csv1):
-    number_of_delimiters = 9 #because we have nine subset lists. I could make the class a panda list subset
+    number_of_delimiters = 9 #because we have nine subsets. I could make the class a concatenated string panda list subset
     self.closed_date
     self.opened_date
     self.market
