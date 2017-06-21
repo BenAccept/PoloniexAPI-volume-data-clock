@@ -21,3 +21,6 @@ class subsetDelimitersuniversebreaker(self,csv1):
     self.unites_total_DASH
     self.actual_rate
     self.cost_proceeds
+
+class metasubset():
+    x = [] #example print| be print(x[1], x[9]) str()
