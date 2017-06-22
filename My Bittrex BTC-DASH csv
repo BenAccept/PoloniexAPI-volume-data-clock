@@ -23,5 +23,5 @@ class subsetDelimitersuniversebreaker(self,csv1):
     self.cost_proceeds
 
 class metasubset():
-    x = [] #example print| be print(x[1], x[9]) str()
+    x = [][self.cost_proceeds] #example print| be print(x[1], x[9]) str()
 print(self.cost_proceeds) + "CSV total: " #I should replace a list before I maybe print
