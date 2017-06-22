@@ -22,6 +22,7 @@ class subsetDelimitersuniversebreaker(self,csv1):
     self.actual_rate
     self.cost_proceeds
 
+#make an area and insert the correct delimiter area
 class metasubset():
     x = [][self.cost_proceeds] #example print| be print(x[1], x[9]) str()
 print(self.cost_proceeds) + "CSV total: " #I should replace a list before I maybe print
