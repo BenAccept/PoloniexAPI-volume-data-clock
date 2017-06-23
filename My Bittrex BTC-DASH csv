@@ -24,5 +24,5 @@ class subsetDelimitersuniversebreaker(operator):
 
 #make an area and insert the correct delimiter area
 class metasubset():
-    x = [][operator.cost_proceeds] #example print| be print(x[1], x[9]) str()
+    x = [operator.cost_proceeds] #example print| be print(x[1], x[9]) str()
 print(operator.cost_proceeds) + "CSV total: " #I should replace a list before I maybe print
