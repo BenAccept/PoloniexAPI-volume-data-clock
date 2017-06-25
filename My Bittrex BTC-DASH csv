@@ -27,12 +27,14 @@ class subsetDelimitersuniversebreaker(operator):
 #I should replace a list before I maybe print
 
 class metasubset():
-    operator = [ operator.cost_proceeds + "CSV total: ",
-    operator.actual_rate + "CSV maker taker fee: ",
-    operator.unites_total_DASH +"CSV total unites of DASH: ",
-    operator.unites_filled_DASH + "CSV filled DASH: ",
-    operator.bid_ask + "CSV DASH buy or sell price: ",
-    operator.type + "CSV type buy or sell: ",
-    operator.market + "CSV what crypto scale: ",
-    operator.opened_date + "CSV when did I open a market: ",
-    operator.closed_date + "CSV when and how long I held the market: "]
+    operator = [ 
+    cost_proceeds + "CSV total: ",
+    actual_rate + "CSV maker taker fee: ",
+    unites_total_DASH +"CSV total unites of DASH: ",
+    unites_filled_DASH + "CSV filled DASH: ",
+    bid_ask + "CSV DASH buy or sell price: ",
+    type + "CSV type buy or sell: ",
+    market + "CSV what crypto scale: ",
+    opened_date + "CSV when did I open a market: ",
+    closed_date + "CSV when and how long I held the market: "
+    ]
