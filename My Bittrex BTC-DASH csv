@@ -26,7 +26,7 @@ class subsetDelimitersuniversebreaker(self, operator, delimiter):
 #example print| be print(x[1], x[9]) str()
 #I should replace a list before I maybe print
 
-class metasubset(self, operator, delimiter):
+class metasubset(self, delimiter):
     operator = [ 
     self.cost_proceeds + "CSV total: ",
     self.actual_rate + "CSV maker taker fee: ",
