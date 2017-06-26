@@ -2,7 +2,7 @@ import csv
 import operator
 
 sample = open('BTC-DASH.csv','r')
-##sort = sorted(csv1, key=operator.itemgetter(0))
+sort = sorted(csv1, key=operator.itemgetter(0))
 csv1 = csv.reader(sample,delimiter=',')
 for eachline in sort:
     print eachline
