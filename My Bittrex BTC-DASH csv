@@ -25,13 +25,13 @@ class subsetDelimitersuniversebreaker(self, delimiter):
 
 class metasubset(self, delimiter):
     operator = [ 
-    self.cost_proceeds + "CSV total: ",
-    self.actual_rate + "CSV maker taker fee: ",
-    self.unites_total_DASH +"CSV total unites of DASH: ",
-    self.unites_filled_DASH + "CSV filled DASH: ",
-    self.bid_ask + "CSV DASH buy or sell price: ",
-    self.type + "CSV type buy or sell: ",
-    self.market + "CSV what crypto scale: ",
-    self.opened_date + "CSV when did I open a market: ",
-    self.closed_date + "CSV when and how long I held the market: "
+    cost_proceeds + "CSV total: ",
+    actual_rate + "CSV maker taker fee: ",
+    unites_total_DASH +"CSV total unites of DASH: ",
+    unites_filled_DASH + "CSV filled DASH: ",
+    bid_ask + "CSV DASH buy or sell price: ",
+    type + "CSV type buy or sell: ",
+    market + "CSV what crypto scale: ",
+    opened_date + "CSV when did I open a market: ",
+    closed_date + "CSV when and how long I held the market: "
     ]
