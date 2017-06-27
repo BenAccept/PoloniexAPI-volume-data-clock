@@ -7,17 +7,17 @@ csv1 = csv.reader(sample,delimiter=',')
 for eachline in sort:
     print eachline
     
-class subsetDelimitersuniversebreaker(self):
+class subsetDelimitersuniversebreaker(operator:
     number_of_delimiters = 9 #because we have nine subsets. I could make the class a concatenated string panda list subset
-    self.closed_date = self.close_date
-    self.opened_date = self.opened_date
-    self.market = self.market
-    self.type = self.type
-    self.bid_ask = self.bid_ask
-    self.unites_filled_DASH = self.unites_filled_DASH
-    self.unites_total_DASH = self.unites_total_DASH
-    self.actual_rate = self.actual_rate
-    self.cost_proceeds = self.cost_proceeds
+    operator.closed_date
+    operator.opened_date
+    operator.market
+    operator.type
+    operator.bid_ask
+    operator.unites_filled_DASH
+    operator.unites_total_DASH
+    operator.actual_rate
+    operator.cost_proceeds
 
 #make an area and insert the correct delimiter area
 #example print| be print(x[1], x[9]) str()
