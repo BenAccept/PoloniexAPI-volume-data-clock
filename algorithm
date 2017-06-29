@@ -1,4 +1,4 @@
-#validate the numbers to increase/decrease | with the opperators notification file I/O log
+#validate the numbers to increase/decrease and print with the opperators notification file I/O log
 
 clues = []
 if(nut):
