@@ -24,7 +24,7 @@ class subsetDelimitersuniversebreaker(operator:
 #I should replace a list before I maybe print
 
 class metasubset(self, delimiter):
-    operator = [ 
+    csvkeys = [ 
     cost_proceeds + "CSV total: ",
     actual_rate + "CSV maker taker fee: ",
     unites_total_DASH +"CSV total unites of DASH: ",
@@ -35,3 +35,4 @@ class metasubset(self, delimiter):
     opened_date + "CSV when did I open a market: ",
     closed_date + "CSV when and how long I held the market: "
     ]
+print(csvkeys.eachline)
