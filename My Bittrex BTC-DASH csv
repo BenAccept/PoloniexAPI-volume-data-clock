@@ -1,7 +1,7 @@
 #Definition of DASH-CSV
 #Import the networking  if it is an API and import the packages if it's a CSV
-#Calculate A
-#Calculate B
+#Calculate DASH-CSV
+#Calculate DASH-CSV
 #Build printout
 
 import csv
