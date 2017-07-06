@@ -1,3 +1,9 @@
+#Definition of DASH-CSV
+#Import the networking  if it is an API and import the packages if it's a CSV
+#Calculate A
+#Calculate B
+#Build printout
+
 import csv
 import operator
 
@@ -20,7 +26,7 @@ class subsetDelimitersuniversebreaker(operator:
     operator.cost_proceeds
 
 #make an area and insert the correct delimiter area
-#example print| be print(x[1], x[9]) str()
+#example and build printout| be print(x[1], x[9]) str()
 #I should replace a list before I maybe print
 
 class metasubset(self, delimiter):
