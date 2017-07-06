@@ -36,3 +36,5 @@ class metasubset(self, delimiter):
     closed_date + "CSV when and how long I held the market: "
     ]
 print(csvkeys.eachline)
+
+#Definition of DASH-CSV
