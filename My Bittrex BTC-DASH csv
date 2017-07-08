@@ -4,9 +4,10 @@
 #Calculate DASH-CSV
 #Build printout
 
+#Correct import
 import csv
 import operator
-
+#Definition of DASH-CSV
 sample = open('BTC-DASH.csv','r')
 sort = sorted(csv1, key=operator.itemgetter(0))
 csv1 = csv.reader(sample,delimiter=',')
@@ -41,6 +42,30 @@ class metasubset(self, delimiter):
     opened_date + "CSV when did I open a market: ",
     closed_date + "CSV when and how long I held the market: "
     ]
+#Build printout
+printout1 = cost_proceeds(eachline) + 
+printout2 = actual_rate(eachline) + 
+printout3 = unites_total_DASH(eachline) + 
+printout4 = unites_filled_DASH(eachline) + 
+printout5 = bid_ask(eachline) + 
+printout6 = type(eachline) + 
+printout7 = market(eachline) + 
+printout8 = opened_date(eachline) + 
+printout9 = closed_date(eachline) + 
+
 print(csvkeys.eachline)
 
+print(printout1)
+print(printout2)
+print(printout3)
+print(printout4)
+print(printout5)
+print(printout6)
+print(printout7)
+print(printout8)
+print(printout9)
+
 #Definition of DASH-CSV
+
+
+#Calculate DASH-CSV
