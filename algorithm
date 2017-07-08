@@ -1,5 +1,1 @@
 #validate the numbers to increase/decrease and print with the opperators notification file I/O log
-
-clues = []
-if(nut):
-  return nut
