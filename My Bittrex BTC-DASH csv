@@ -55,15 +55,8 @@ printout9 = closed_date(eachline) + str("CSV when and how long I held the market
 
 print(csvkeys.eachline)
 
-print(printout1)
-print(printout2)
-print(printout3)
-print(printout4)
-print(printout5)
-print(printout6)
-print(printout7)
-print(printout8)
-print(printout9)
+print(csv_keys[printout1::printout9])
+
 
 #Definition of DASH-CSV
 
