@@ -55,6 +55,14 @@ for x in csvnums:
     print(csv_keys[printout1::printout9])
 
 #Definition of DASH-CSV
-
+CSV_total
+CSV_maker_taker_fee
+CSV_total_unites_of_DASH
+CSV_filled_DASH
+CSV_DASH_buy_or_sell_price
+CSV_buy_or_sell
+CSV_what_crypto_scale
+CSV_when_did_I_open_a_market
+CSV_when_and_how_long_I_held_the_market
 
 #Calculate DASH-CSV
