@@ -4,7 +4,7 @@
 #Calculate DASH-CSV
 #Build printout
 
-#Correct import
+#Correct import, creates array
 import csv
 import operator
 #Definition of DASH-CSV
@@ -47,14 +47,17 @@ csvnums[8] = str("CSV when and how long I held the market: ")
 Class metasubsetstrings():
     strings = []
 
+#creates array
 print(csvkeys.eachline)
 
+#creates array
 print(csv_keys[printout1::printout9])
 
+#creates array
 for x in csvnums:
     print(csv_keys[printout1::printout9])
 
-#Definition of DASH-CSV
+#Definition of DASH-CSV, creates array
 CSV_total
 CSV_maker_taker_fee
 CSV_total_unites_of_DASH
@@ -65,4 +68,4 @@ CSV_what_crypto_scale
 CSV_when_did_I_open_a_market
 CSV_when_and_how_long_I_held_the_market
 
-#Calculate DASH-CSV
+#Calculate DASH-CSV, creates array
