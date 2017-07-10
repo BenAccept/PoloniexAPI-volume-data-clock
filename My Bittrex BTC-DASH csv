@@ -6,7 +6,7 @@
 
 #Correct import, creates array
 import csv
-import operator
+import time
 #Definition of DASH-CSV
 sample = open('BTC-DASH.csv','r')
 sort = sorted(csv1, key=operator.itemgetter(0))
