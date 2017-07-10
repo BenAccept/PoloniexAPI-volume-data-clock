@@ -44,6 +44,9 @@ csvnums[6] = str("CSV what crypto scale: ")
 csvnums[7] = str("CSV when did I open a market: ")
 csvnums[8] = str("CSV when and how long I held the market: ")
 
+Class metasubset2():
+    strings = []
+
 print(csvkeys.eachline)
 
 print(csv_keys[printout1::printout9])
