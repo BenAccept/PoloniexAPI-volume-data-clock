@@ -13,18 +13,6 @@ sort = sorted(csv1, key=operator.itemgetter(0))
 csv1 = csv.reader(sample,delimiter=',')
 for eachline in sort:
     print eachline
-    
-class subsetDelimitersuniversebreaker(operator):
-    number_of_delimiters = 9 #because we have nine subsets. I could make the class a concatenated string panda list subset
-    operator.closed_date
-    operator.opened_date
-    operator.market
-    operator.type
-    operator.bid_ask
-    operator.unites_filled_DASH
-    operator.unites_total_DASH
-    operator.actual_rate
-    operator.cost_proceeds
 
 #make an area and insert the correct delimiter area
 #example and build printout| be print(x[1], x[9]) str()
