@@ -43,15 +43,15 @@ class metasubset(self, delimiter):
     closed_date + "CSV when and how long I held the market: "
     ]
 #Build printout
-printout1 = csvnums[0] + str("CSV total: ")
-printout2 = csvnums[1] + str("CSV maker taker fee: ")
-printout3 = csvnums[2] + str("CSV total unites of DASH: ")
-printout4 = csvnums[3] + str("CSV filled DASH: ")
-printout5 = csvnums[4] + str("CSV DASH buy or sell price: ")
-printout6 = csvnums[5] + str("CSV buy or sell: ")
-printout7 = csvnums[6] + str("CSV what crypto scale: ")
-printout8 = csvnums[7] + str("CSV when did I open a market: ")
-printout9 = csvnums[8] + str("CSV when and how long I held the market: ")
+csvnums[0] = str("CSV total: ")
+csvnums[1] = str("CSV maker taker fee: ")
+csvnums[2] = str("CSV total unites of DASH: ")
+csvnums[3] = str("CSV filled DASH: ")
+csvnums[4] = str("CSV DASH buy or sell price: ")
+csvnums[5] = str("CSV buy or sell: ")
+csvnums[6] = str("CSV what crypto scale: ")
+csvnums[7] = str("CSV when did I open a market: ")
+csvnums[8] = str("CSV when and how long I held the market: ")
 
 print(csvkeys.eachline)
 
