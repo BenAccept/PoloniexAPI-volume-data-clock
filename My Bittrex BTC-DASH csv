@@ -1,5 +1,5 @@
 #Definition of DASH-CSV
-#Import the networking  if it is an API and import the packages if it's a CSV
+#Import the networking packages if it is an API and the packages if it's a CSV
 #Calculate DASH-CSV
 #Calculate DASH-CSV
 #Build printout
@@ -30,18 +30,9 @@ class subsetDelimitersuniversebreaker(operator):
 #example and build printout| be print(x[1], x[9]) str()
 #I should replace a list before I maybe print
 
-class metasubset(self, delimiter):
-    csvnums = [ 
-    cost_proceeds + "CSV total: ",
-    actual_rate + "CSV maker taker fee: ",
-    unites_total_DASH +"CSV total unites of DASH: ",
-    unites_filled_DASH + "CSV filled DASH: ",
-    bid_ask + "CSV DASH buy or sell price: ",
-    type + "CSV type buy or sell: ",
-    market + "CSV what crypto scale: ",
-    opened_date + "CSV when did I open a market: ",
-    closed_date + "CSV when and how long I held the market: "
-    ]
+class metasubset():
+    csvnums = [ cost_proceeds, actual_rate, unites_total_DASH, unites_filled_DASH, bid_ask, type, market, opened_date, closed_date ]
+
 #Build printout
 csvnums[0] = str("CSV total: ")
 csvnums[1] = str("CSV maker taker fee: ")
