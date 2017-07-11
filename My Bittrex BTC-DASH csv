@@ -19,9 +19,17 @@ for eachline in sort:
 #I should replace a list before I maybe print
 
 class metasubset():
-    csvnums = [ cost_proceeds, actual_rate, unites_total_DASH, unites_filled_DASH, bid_ask, type, market, opened_date, closed_date ]
+    csvnums = [ cost_proceeds, 
+                actual_rate, 
+                unites_total_DASH, 
+                unites_filled_DASH, 
+                bid_ask, 
+                type, 
+                market, 
+                opened_date, 
+                closed_date ]
     
-    [] * []
+    [0] * [1] * [7] * [8]
 
 #Build printout, creates array
 csvnums[0] = str("CSV total: ")
