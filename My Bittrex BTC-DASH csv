@@ -31,7 +31,8 @@ class metasubset(x):
     
     x = csvnums * x.[0] + x.[1] + x.[4] + x.[5] + x.[6] + x.[7] + x.[8] # = 0
     cost / proceeds * actual rate * bid / ask * type * market #including ending timestamp = fee but 1 satoshi bid/ask
-    [] + [] + [7] + [8] = 
+    [] + [] + [7] + [8] = x #probably an if statement but its a 'meta' class and now a master i think
+    x = {}
 
 #Build printout, creates array
 csvnums[0] = str("CSV total: ")
