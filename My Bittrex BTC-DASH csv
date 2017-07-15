@@ -18,7 +18,7 @@ for eachline in sort:
 #example and build printout| be print(x[1], x[9]) str()
 #I should replace a list before I maybe print
 
-class metasubset():
+class metasubset(x):
     csvnums = [ cost_proceeds, 
                 actual_rate, 
                 unites_total_DASH, 
@@ -29,7 +29,7 @@ class metasubset():
                 opened_date, 
                 closed_date ]
     
-    [0] + [1] + [4] + [5] + [6] + [7] + [8] = csvnums #0
+    xcsvnums = x * [0] + [1] + [4] + [5] + [6] + [7] + [8] # = 0
     cost / proceeds * actual rate * bid / ask * type * market #including ending timestamp = fee but 1 satoshi bid/ask
     [] + [] + [7] + [8] = 
 
