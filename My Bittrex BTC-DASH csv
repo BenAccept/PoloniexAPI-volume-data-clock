@@ -34,6 +34,7 @@ class metasubset(x):
     metasubset[0:2:4:8]
     cost / proceeds * actual rate * bid / ask * type * market #including ending timestamp = fee but 1 satoshi bid/ask
     [] + [] + [7] + [8] = x #probably an if statement but its a 'meta' class and now a master i think looking to pass a library
+    x = metasubset({}.format())
     
 
 #Build printout, creates array
