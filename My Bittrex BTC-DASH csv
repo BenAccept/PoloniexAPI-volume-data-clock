@@ -39,11 +39,11 @@ class metasubset(x):
 #Build printout, creates array
 csvnums[0] = str("CSV total: ")
 csvnums[1] = str("CSV maker taker fee: ")
-csvnums[2] = str("CSV total unites of DASH: ")
-csvnums[3] = str("CSV filled DASH: ")
-csvnums[4] = str("CSV DASH buy or sell price: ")
+csvnums[2] = str("CSV total unites: ")
+csvnums[3] = str("CSV filled: ")
+csvnums[4] = str("CSV buy or sell price: ")
 csvnums[5] = str("CSV buy or sell: ")
-csvnums[6] = str("CSV what crypto scale: ")
+csvnums[6] = str("CSV what crypto: ")
 csvnums[7] = str("CSV when did I open a market: ")
 csvnums[8] = str("CSV when and how long I held the market: ")
 
