@@ -17,7 +17,7 @@ for eachline in sort:
 #make an area and insert the correct delimiter area
 #example and build printout| be print(x[1], x[9]) str()
 #I should replace a list before I maybe print
-#go to subset list
+#incriment to go to subset list
 
 class metasubset(x):
     x = {}
