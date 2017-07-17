@@ -32,10 +32,3 @@ csvnums[5] = str("CSV buy or sell: ")
 csvnums[6] = str("CSV what crypto: ")
 csvnums[7] = str("CSV when did I open a market: ")
 csvnums[8] = str("CSV when and how long I held the market: ")
-
-Class metasubsetstrings():
-    strings = []
-    
-#creates array
-for x in csvnums:
-    print(csv_keys[printout1::printout9])
