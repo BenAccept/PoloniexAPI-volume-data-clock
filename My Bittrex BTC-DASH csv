@@ -1,10 +1,3 @@
-#Definition of DASH-CSV
-#Import the networking packages if it is an API and the packages if it's a CSV
-#Calculate DASH-CSV
-#Calculate DASH-CSV
-#Build printout
-
-#Correct import, creates array
 import csv
 import time
 #Definition of DASH-CSV
@@ -13,11 +6,6 @@ sort = sorted(csv1, key=operator.itemgetter(0))
 csv1 = csv.reader(sample,delimiter=',')
 for eachline in sort:
     print eachline
-
-#make an area and insert the correct delimiter area
-#example and build printout| be print(x[1], x[9]) str()
-#I should replace a list before I maybe print
-#incriment to go to subset list
 
 class metasubset(x):
     x = {}
@@ -31,13 +19,9 @@ class metasubset(x):
                 opened_date, 
                 closed_date ]
     
-    x = csvnums * x.[0] + x.[1] + x.[4] + x.[5] + x.[6] + x.[7] + x.[8] # = 0
-    metasubset[0:2:4:8]
-    cost / proceeds * actual rate * bid / ask * type * market #including ending timestamp = fee but 1 satoshi bid/ask
-    [] + [] + [7] + [8] = x #probably an if statement but its a 'meta' class and now a master i think looking to pass a library
+    x = csvnums * [0] + [1] + [4] + [5] + [6] + [7] + [8] # = 0
     x = metasubset({}.format())
     
-
 #Build printout, creates array
 csvnums[0] = str("CSV total: ")
 csvnums[1] = str("CSV maker taker fee: ")
@@ -51,26 +35,7 @@ csvnums[8] = str("CSV when and how long I held the market: ")
 
 Class metasubsetstrings():
     strings = []
-
-#creates array
-print(csvkeys.eachline)
-
-#creates array
-print(csv_keys[printout1::printout9])
-
+    
 #creates array
 for x in csvnums:
     print(csv_keys[printout1::printout9])
-
-#Definition of DASH-CSV, creates array
-CSV_total
-CSV_maker_taker_fee
-CSV_total_unites_of_DASH
-CSV_filled_DASH
-CSV_DASH_buy_or_sell_price
-CSV_buy_or_sell
-CSV_what_crypto_scale
-CSV_when_did_I_open_a_market
-CSV_when_and_how_long_I_held_the_market
-
-#Calculate DASH-CSV, creates array
