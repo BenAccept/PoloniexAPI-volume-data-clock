@@ -29,6 +29,16 @@ csvnums[2] = str("CSV total unites: ").append(x)
 csvnums[3] = str("CSV filled: ").append(x)
 csvnums[4] = str("CSV buy or sell price: ").append(x)
 csvnums[5] = str("CSV buy or sell: ").append(x)
-csvnums[6] = str("CSV what crypto: ").append(x)
+csvnums[6] = str("CSV what coin: ").append(x)
 csvnums[7] = str("CSV when did I open a market: ").append(x)
 csvnums[8] = str("CSV when and how long I held the market: ").append(x)
+
+"CSV total: "
+"CSV maker taker fee: "
+"CSV total unites: "
+"CSV filled: "
+"CSV buy or sell price: "
+"CSV buy or sell: "
+"CSV what coin: "
+"CSV when did I open a market: "
+"CSV when and how long I held the market: "
