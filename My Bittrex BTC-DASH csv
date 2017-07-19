@@ -7,7 +7,7 @@ csv1 = csv.reader(sample,delimiter=',')
 for eachline in sort:
     print eachline
 
-class metasubset(x, dict):
+class metasubset(x, dict, end=""):
     x = {}
     csvnums = [ cost_proceeds, 
                 actual_rate, 
