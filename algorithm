@@ -1,2 +1,7 @@
 [row['Inspection Date'] for row in inspection['34192']]
 { row ['Restults'] for row in food }
+
+fail = [ row for row in food if row['Results'] == 'fail']
+len(fail)
+
+#skills demo. GIL active ##skill practice 
