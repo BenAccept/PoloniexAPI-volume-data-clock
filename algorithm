@@ -1,1 +1,2 @@
-#validate numbers increase/decrease and print notification file I/O stamp subset, creates array
+[row['Inspection Date'] for row in inspection['34192']]
+{ row ['Restults'] for row in food }
