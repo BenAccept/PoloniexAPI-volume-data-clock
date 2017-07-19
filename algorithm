@@ -4,4 +4,4 @@
 fail = [ row for row in food if row['Results'] == 'fail']
 len(fail)
 
-#skills demo. GIL active ##skill practice 
+#skill demo. GIL active
