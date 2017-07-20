@@ -7,7 +7,7 @@ csv1 = csv.reader(sample,delimiter=',')
 for eachline in sort:
     print eachline
 
-class metasubset(x, dict, end=""):
+class metasubset(x, dict):
     x = {}
     csvnums = [ cost_proceeds, 
                 actual_rate, 
@@ -23,15 +23,15 @@ class metasubset(x, dict, end=""):
     x = metasubset({}.format()) #possibly append at the end here or on too x
     
 #Build printout, creates array
-csvnums[0] = str("CSV total: ").append(x)
-csvnums[1] = str("CSV maker taker fee: ").append(x)
-csvnums[2] = str("CSV total unites: ").append(x)
-csvnums[3] = str("CSV filled: ").append(x)
-csvnums[4] = str("CSV buy or sell price: ").append(x)
-csvnums[5] = str("CSV buy or sell: ").append(x)
-csvnums[6] = str("CSV what coin: ").append(x)
-csvnums[7] = str("CSV when did I open a market: ").append(x)
-csvnums[8] = str("CSV when and how long I held the market: ").append(x)
+csvnums(dict[0]str("CSV total: ":end="")).append(x)
+csvnums(dict[1]str("CSV maker taker fee: ":end="")).append(x)#Is this really the fee
+csvnums(dict[2]str("CSV total unites: ":end="")).append(x)
+csvnums(dict[3]str("CSV filled: ":end="")).append(x)
+csvnums(dict[4]str("CSV buy or sell price: ":end="")).append(x)
+csvnums(dict[5]str("CSV buy or sell: ":end="")).append(x)
+csvnums(dict[6]str("CSV what coin: ":end="")).append(x)
+csvnums(dict[7]str("CSV when did I open a market: ":end="")).append(x)
+csvnums(dict[8]str("CSV when and how long I held the market: ":end="")).append(x)
 
 "CSV total: "
 "CSV maker taker fee: "
