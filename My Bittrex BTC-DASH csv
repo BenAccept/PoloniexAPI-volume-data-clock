@@ -34,12 +34,12 @@ csvnums(dict[6]str("CSV what coin: ":end="")).append(x)
 csvnums(dict[7]str("CSV when did I open a market: ":end="")).append(x)
 csvnums(dict[8]str("CSV when and how long I held the market: ":end="")).append(x)
 
-"CSV total: "
-"CSV maker taker fee: "
-"CSV total unites: "
+"CSV total end: "
+"CSV maker and taker fee: "
+"CSV unites: "
 "CSV filled: "
-"CSV buy or sell price: "
+"CSV coin buy or sell price: "
 "CSV buy or sell: "
-"CSV what coin: "
-"CSV when did I open a market: "
-"CSV when and how long I held the market: "
+"CSV coin: "
+"CSV buy coin: "
+"CSV sold coin: "
